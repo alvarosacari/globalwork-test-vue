@@ -1,4 +1,4 @@
-# global-work-test-vue
+# globalwork-test-vue
 
 > Global Work Frontend Test
 
