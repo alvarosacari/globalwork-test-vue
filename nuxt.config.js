@@ -65,7 +65,7 @@ export default {
 
   // router config
   router: {
-    base: '/'
+    base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/globalwork-test-vue/' : ''
   },
 
   /*
