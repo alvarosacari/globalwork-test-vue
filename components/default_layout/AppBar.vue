@@ -12,7 +12,7 @@
 
     <v-tooltip bottom>
       <template v-slot:activator="{on}">
-        <v-btn v-on="on" icon>
+        <v-btn v-on="on" icon target="_blank" href="https://github.com/alvarosacari/globalwork-test-vue">
           <v-icon>
             mdi-github-circle
           </v-icon>
