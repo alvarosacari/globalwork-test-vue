@@ -134,7 +134,7 @@ export default {
       this.$swal({
         title,
         text: 'Esta acción no se podrá revertir',
-        icon: 'warning',
+        type: 'warning',
         showCancelButton: true,
         confirmButtonColor: 'red',
         confirmButtonText: 'Si, eliminar',

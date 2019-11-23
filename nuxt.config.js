@@ -28,7 +28,7 @@ export default {
   */
   css: [
     '~/assets/transition-page.scss',
-    'sweetalert2/dist/sweetalert2.min.css'
+    '~/assets/scss/sweetalert.scss'
   ],
   /*
   ** Plugins to load before mounting the App

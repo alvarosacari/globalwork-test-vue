@@ -112,7 +112,7 @@ export default {
       this.$swal({
         title: '¿Está seguro que desea eliminar la referencia laboral?',
         text: 'Esta acción no se podrá revertir',
-        icon: 'warning',
+        type: 'warning',
         showCancelButton: true,
         confirmButtonColor: 'red',
         confirmButtonText: 'Si, eliminar',
