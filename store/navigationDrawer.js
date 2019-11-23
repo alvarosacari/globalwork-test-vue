@@ -12,6 +12,11 @@ export const state = () => ({
       title: 'Inicio',
       icon: 'mdi-home',
       to: { name: 'index' }
+    },
+    {
+      title: 'Contacto',
+      icon: 'mdi-account-plus',
+      to: { name: 'contact' }
     }
   ],
   items2: [
