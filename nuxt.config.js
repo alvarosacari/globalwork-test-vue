@@ -63,7 +63,6 @@ export default {
     baseURL: 'https://globalwork-test-api.herokuapp.com/api'
   },
 
-  // router config
   router: {
     base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/globalwork-test-vue/' : ''
   },
